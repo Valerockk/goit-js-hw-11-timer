@@ -1,0 +1,27 @@
+body {
+  text-shadow: 0 -1px 0 rgb(14, 11, 31);
+  border: 2px solid rgb(24, 29, 28);
+}
+
+.label {
+  display: block;
+  padding: 10px;
+  font-size: 25px;
+}
+
+.timer {
+  color: rgb(40, 40, 46);
+  display: flex;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  justify-content: center;
+  margin: 0 auto;
+  /* position: absolute; */
+  /* top: 10%; */
+  border: 2px rgb(19, 22, 22) solid;
+}
+
+.field {
+  margin: 10px 30px;
+}
